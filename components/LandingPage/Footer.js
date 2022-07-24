@@ -51,7 +51,7 @@ function Footer() {
           </div>
         </div>
       </div>
-      <div className="text-center text-gray-400">© Copyright AppHafen 2022</div>
+      <div className="text-center text-gray-400">© Copyright Jacqueline Taylor & Friends 2022</div>
     </div>
   );
 }
