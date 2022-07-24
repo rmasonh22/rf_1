@@ -1,0 +1,51 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+test/firestore/node_modules/
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+ui-debug.log
+firestore-debug.log
+firebase-debug.log
+
+# local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+functions/.env.json
+functions.env.json
+
+# vercel
+.vercel
+
+
+#Firebase logs
+test/firestore/firestore-coverage.html
+test/firestore/firestore-debug.log
+.firebase/hosting.YnVpbGQ.cache
+test/firestore/firestore-coverage-chat.html
+test/firestore/firestore-coverage-newsletter.html
+test/firestore/firestore-coverage-todo.html
+
+public/images/nextImageExportOptimizer

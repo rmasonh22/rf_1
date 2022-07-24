@@ -1,0 +1,12 @@
+*************
+Hi!
+*************
+
+Follow this link to verify your email address.
+
+Verify email address( {{ action_url }} )
+
+If you didn’t ask to verify this address, you can ignore this email.
+
+Thanks,
+The {{ product_name }} Team

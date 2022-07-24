@@ -1,0 +1,9 @@
+You received a new chat message:
+
+Message: 
+{{message}}
+
+By {{chat_sender}} at {{timestamp}}
+
+Go to your chat messages:
+{{chat_websiteURL}}

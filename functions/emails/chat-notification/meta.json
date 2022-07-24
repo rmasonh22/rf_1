@@ -1,0 +1,18 @@
+{
+  "Name": "chat message notification",
+  "Alias": "chat-notification",
+  "Subject": "🎉    You received a new chat message!",
+  "TemplateType": "Standard",
+  "LayoutTemplate": "basic",
+  "TestRenderModel": {
+    "product_url": "product_url_Value",
+    "product_name": "product_name_Value",
+    "message": "message_Value",
+    "chat_sender": "chat_sender_Value",
+    "timestamp": "timestamp_Value",
+    "twitter_url": "twitter_url_Value",
+    "company_name": "company_name_Value",
+    "company_address": "company_address_Value",
+    "chat_websiteURL": "chat_websiteURL_Value"
+  }
+}

@@ -1,0 +1,12 @@
+******************
+Welcome to {{ product_name }}!
+******************
+
+Thanks for using {{ product_name }}. We’re thrilled to have you on board. To get the most out of this React.js app starter, follow these first steps:
+
+Getting started checklist ( {{ action_url }} )
+
+If you have any questions, feel free to email our customer success team ( {{ support_email }} ).
+
+Thanks,
+{{sender_name}} and the {{product_name}} Team

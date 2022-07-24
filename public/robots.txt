@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /legal
+Disallow: /privacy
+Disallow: /terms-of-service
+Disallow: /license

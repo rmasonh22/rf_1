@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "node": true,
+      "mocha": true
+    }
+  },
+  "description": "",
+  "scripts": {
+    "test": "mocha **/*.test.js --exit"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@firebase/rules-unit-testing": "^2.0.1",
+    "mocha": "^10.0.0"
+  }
+}
